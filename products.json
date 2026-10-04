@@ -1,0 +1,29 @@
+[
+  {
+    "id": "dc-1",
+    "name": "Datacenter Starter",
+    "type": "Datacenter",
+    "price": 5,
+    "duration": "7 days",
+    "stock": 50,
+    "description": "Fast datacenter proxy package."
+  },
+  {
+    "id": "isp-1",
+    "name": "ISP Standard",
+    "type": "ISP",
+    "price": 10,
+    "duration": "30 days",
+    "stock": 25,
+    "description": "Stable ISP proxy package."
+  },
+  {
+    "id": "res-1",
+    "name": "Residential Basic",
+    "type": "Residential",
+    "price": 15,
+    "duration": "30 days",
+    "stock": 15,
+    "description": "Residential proxy package from a compliant provider."
+  }
+]
